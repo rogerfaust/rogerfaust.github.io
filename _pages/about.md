@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+As a PhD student at the University of Minnesota, my research focuses on exploring effective ways for Universities and management agencies to establish meaningful partnerships with diverse communities for conservation management. Under the guidance of Dr. David Fulton and Dr. Tiffany Wolf, I am engaged in several community-focused projects that aim to understand the perspectives and knowledge of tribal, Hmong, and Amish communities regarding chronic wasting disease (CWD). With these communities, I am developing community-tailored outreach materials and facilitating the co-creation of CWD management plans. Prior to my doctoral studies, I completed a Bachelor of Arts in Biology at Carleton College and a Masters at the University of Minnesota where I conducted research on wolf diet in the Greater Voyageurs Ecosystem, using stable isotope analysis.
 
 A data-driven personal website
 ======
