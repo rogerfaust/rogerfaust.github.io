@@ -7,14 +7,6 @@ redirect_from:
   - /resume
 ---
 
----
-title: "CV"
-layout: archive
-permalink: /cv/
-author_profile: yes
-redirect_from: /resume
----
-
 <u><a href="{{ site.baseurl }}/files/Roger.Faust_CV_June30_2022.pdf">Download CV</a></u>
 <br/>
 
