@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roger Faust"
   avatar           : "profile.png"
-  bio              : "PhD student, University of Minnesota."
+  bio              : "PhD student, University of Minnesota, <a style='color: black;' href='http://fwcb.cfans.umn.edu/'>Dept. Fisheries, Wildlife, & Conservation Biology</a> <br><br>""
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
