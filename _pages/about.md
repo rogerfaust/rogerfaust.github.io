@@ -17,10 +17,9 @@ As a PhD student at the University of Minnesota, my research focuses on explorin
 <div id="pictures" align="center">
     <img src="/images/RF_RTB.jpeg" style="width:48%; margin: 0em 0.1em 0em 0em;">
     <img src="/images/RF_SCUBA.PNG" style="width:48%; margin: 0em 0em 0em 0em;">
-</div> 
 <div id="pictures" align="center">
-        <img src="/images/Ruby_RF.jpg" style="width:48%; margin: 0em 0.1em 0em 0em;">
+    <img src="/images/Ruby_RF.jpg" style="width:48%; margin: 0em 0.1em 0em 0em;">
     <img src="/images/RF_Waterfall.JPG" style="width:48%; margin: 0em 0em 0em 0em;">
-</div>
+<div id="pictures" align="center">
     <img src="/images/RF_Beach_Friends.jpg" style="width:48%; margin: 0em 0.1em 0em 0em;">
     <img src="/images/RF_SantaCruz_Deer.jpg" style="width:48%; margin: 0em 0em 0em 0em;">
